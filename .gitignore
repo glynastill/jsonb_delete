@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+regression.diffs
+regression.out
+results/

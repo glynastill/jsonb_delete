@@ -1,0 +1,5 @@
+# jsonb_delete extension
+comment = 'hstore style delete function and operator for jsonb'
+default_version = '1.0'
+module_pathname = '$libdir/jsonb_delete'
+relocatable = true
